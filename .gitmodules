@@ -1,0 +1,99 @@
+[submodule "core/chia-blockchain"]
+	path = core/chia-blockchain
+	url = https://github.com/Chia-Network/chia-blockchain.git
+[submodule "core/chia-blockchain-gui"]
+	path = core/chia-blockchain-gui
+	url = https://github.com/Chia-Network/chia-blockchain-gui.git
+[submodule "core/chia_rs"]
+	path = core/chia_rs
+	url = https://github.com/Chia-Network/chia_rs.git
+[submodule "core/clvm_rs"]
+	path = core/clvm_rs
+	url = https://github.com/Chia-Network/clvm_rs.git
+[submodule "core/chiapos"]
+	path = core/chiapos
+	url = https://github.com/Chia-Network/chiapos.git
+[submodule "core/chiavdf"]
+	path = core/chiavdf
+	url = https://github.com/Chia-Network/chiavdf.git
+[submodule "smart-contracts/chialisp"]
+	path = smart-contracts/chialisp
+	url = https://github.com/Chia-Network/chialisp.git
+[submodule "smart-contracts/chia_puzzles"]
+	path = smart-contracts/chia_puzzles
+	url = https://github.com/Chia-Network/chia_puzzles.git
+[submodule "smart-contracts/clvm"]
+	path = smart-contracts/clvm
+	url = https://github.com/Chia-Network/clvm.git
+[submodule "smart-contracts/rue"]
+	path = smart-contracts/rue
+	url = https://github.com/xch-dev/rue.git
+[submodule "smart-contracts/community/cypher-chialisp"]
+	path = smart-contracts/community/cypher-chialisp
+	url = https://github.com/hashgreen/cypher-chialisp.git
+[submodule "smart-contracts/community/chialisp_dev_utility"]
+	path = smart-contracts/community/chialisp_dev_utility
+	url = https://github.com/Quexington/chialisp_dev_utility.git
+[submodule "smart-contracts/community/Taichia-Chialisp"]
+	path = smart-contracts/community/Taichia-Chialisp
+	url = https://github.com/TaichiaDao/Taichia-Chialisp.git
+[submodule "gaming/chia-gaming"]
+	path = gaming/chia-gaming
+	url = https://github.com/Chia-Network/chia-gaming.git
+[submodule "gaming/chiania"]
+	path = gaming/chiania
+	url = https://github.com/RudolfAchter/chiania.git
+[submodule "gaming/ChiaRPSGame"]
+	path = gaming/ChiaRPSGame
+	url = https://github.com/jjldv/ChiaRPSGame.git
+[submodule "sdks/cni-wallet-sdk"]
+	path = sdks/cni-wallet-sdk
+	url = https://github.com/Chia-Network/cni-wallet-sdk.git
+[submodule "sdks/chia-wallet-sdk"]
+	path = sdks/chia-wallet-sdk
+	url = https://github.com/xch-dev/chia-wallet-sdk.git
+[submodule "sdks/chia-client"]
+	path = sdks/chia-client
+	url = https://github.com/freddiecoleman/chia-client.git
+[submodule "sdks/chia_crypto_utils"]
+	path = sdks/chia_crypto_utils
+	url = https://github.com/irulast/chia_crypto_utils.git
+[submodule "sdks/sage"]
+	path = sdks/sage
+	url = https://github.com/xch-dev/sage.git
+[submodule "tools/chia-dev-tools"]
+	path = tools/chia-dev-tools
+	url = https://github.com/Chia-Network/chia-dev-tools.git
+[submodule "tools/vscode-chialisp-lsp"]
+	path = tools/vscode-chialisp-lsp
+	url = https://github.com/Chia-Network/vscode-chialisp-lsp.git
+[submodule "tools/coinset-cli"]
+	path = tools/coinset-cli
+	url = https://github.com/coinset-org/cli.git
+[submodule "documentation/chia-docs"]
+	path = documentation/chia-docs
+	url = https://github.com/Chia-Network/chia-docs.git
+[submodule "documentation/chips"]
+	path = documentation/chips
+	url = https://github.com/Chia-Network/chips.git
+[submodule "documentation/chialisp-web"]
+	path = documentation/chialisp-web
+	url = https://github.com/Chia-Network/chialisp-web.git
+[submodule "climate/Climate-Tokenization-Engine"]
+	path = climate/Climate-Tokenization-Engine
+	url = https://github.com/Chia-Network/Climate-Tokenization-Engine.git
+[submodule "climate/Climate-Tokenization-Engine-UI"]
+	path = climate/Climate-Tokenization-Engine-UI
+	url = https://github.com/Chia-Network/Climate-Tokenization-Engine-UI.git
+[submodule "climate/climate-explorer-ui"]
+	path = climate/climate-explorer-ui
+	url = https://github.com/Chia-Network/climate-explorer-ui.git
+[submodule "forks/cactus-blockchain"]
+	path = forks/cactus-blockchain
+	url = https://github.com/Cactus-Network/cactus-blockchain.git
+[submodule "forks/chia-rosechain"]
+	path = forks/chia-rosechain
+	url = https://github.com/snight1983/chia-rosechain.git
+[submodule "misc/blockchain-stuff"]
+	path = misc/blockchain-stuff
+	url = https://github.com/RudolfAchter/blockchain-stuff.git
