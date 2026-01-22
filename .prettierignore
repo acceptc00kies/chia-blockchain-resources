@@ -1,0 +1,44 @@
+# Dependencies
+node_modules/
+.pnp
+.pnp.js
+
+# Build outputs
+dist/
+build/
+out/
+*.min.js
+*.min.css
+
+# Submodules (don't format external code)
+references/
+core/
+smart-contracts/
+gaming/
+sdks/
+tools/
+documentation/
+climate/
+forks/
+misc/
+games/
+
+# Package locks
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# Generated files
+coverage/
+.nyc_output/
+*.generated.*
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db

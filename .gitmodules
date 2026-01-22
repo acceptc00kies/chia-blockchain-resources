@@ -97,3 +97,36 @@
 [submodule "misc/blockchain-stuff"]
 	path = misc/blockchain-stuff
 	url = https://github.com/RudolfAchter/blockchain-stuff.git
+[submodule "games/mrdennisv/ChiaRPSGame"]
+	path = games/mrdennisv/ChiaRPSGame
+	url = https://github.com/MrDennisV/ChiaRPSGame.git
+[submodule "tools/chialisp-playground"]
+	path = tools/chialisp-playground
+	url = https://github.com/MrDennisV/chialisp-playground.git
+[submodule "games/mrdennisv/ChiaRPS"]
+	path = games/mrdennisv/ChiaRPS
+	url = https://github.com/MrDennisV/ChiaRPS.git
+[submodule "tools/ChiaTubi"]
+	path = tools/ChiaTubi
+	url = https://github.com/MrDennisV/ChiaTubi.git
+[submodule "tools/ChiaOfferContest"]
+	path = tools/ChiaOfferContest
+	url = https://github.com/MrDennisV/ChiaOfferContest.git
+[submodule "references/best-practices/clean-code-javascript"]
+	path = references/best-practices/clean-code-javascript
+	url = https://github.com/ryanmcdermott/clean-code-javascript.git
+[submodule "references/best-practices/clean-code"]
+	path = references/best-practices/clean-code
+	url = https://github.com/Victorcorcos/clean-code.git
+[submodule "references/best-practices/best-coding-practices"]
+	path = references/best-practices/best-coding-practices
+	url = https://github.com/promyze/best-coding-practices.git
+[submodule "references/best-practices/awesome-code-review"]
+	path = references/best-practices/awesome-code-review
+	url = https://github.com/joho/awesome-code-review.git
+[submodule "references/code-quality/pre-commit-hooks"]
+	path = references/code-quality/pre-commit-hooks
+	url = https://github.com/pre-commit/pre-commit-hooks.git
+[submodule "references/code-quality/jumanjihouse-hooks"]
+	path = references/code-quality/jumanjihouse-hooks
+	url = https://github.com/jumanjihouse/pre-commit-hooks.git
