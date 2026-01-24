@@ -2,6 +2,10 @@
 
 A curated master repository aggregating essential Chia blockchain resources using git submodules. Designed for developers building products on the Chia blockchain with a focus on best practices and code quality.
 
+## Standards
+
+This project follows [acceptc00kies/master-guidance](https://github.com/acceptc00kies/master-guidance) | [Build History](docs/BUILD_HISTORY.md)
+
 [![pre-commit](https://img.shields.io/badge/pre--commit-enabled-brightgreen?logo=pre-commit)](https://github.com/pre-commit/pre-commit)
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 [![Prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg)](https://prettier.io/)
